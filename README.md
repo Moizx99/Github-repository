@@ -1,3 +1,3 @@
-# Github-repository
+# Github-demo
 This is my first Git repository.
 Auther - Moiz khan
